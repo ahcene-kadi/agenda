@@ -173,6 +173,10 @@ textarea {
 	margin-bottom: 10px;
 }
 
+.légende {
+	background: none;
+}
+
 footer {
 	background-color: rgb(226, 58, 29);
 	opacity: 0.7;
